@@ -9,7 +9,7 @@ import io.swagger.v3.oas.annotations.info.Info;
   info = @Info(
     title = "Productos API",
     version = "1.0",
-    description = "CRUD de productos con Spring Boot + JPA + OpenAPI"
+    description = "CRUD de cualquier tipo de productos"
   )
 )
 
